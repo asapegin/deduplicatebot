@@ -10,47 +10,17 @@ The bot reads all new messages from the group (channels/topics are also supporte
 Copyright 2024 Dr. Andrey Sapegin
 
 
-Licensed under the "Attribution-NonCommercial-ShareAlike" Vizsage
-
-
-Public License (the "License"). You may not use this file except
-
-
-in compliance with the License. Roughly speaking, non-commercial
-
-
-users may share and modify this code, but must give credit and 
-
-
-share improvements. However, for proper details please 
-
-
-read the full License, available at
-
+Licensed under the "Attribution-NonCommercial-ShareAlike" Vizsage Public License (the "License"). You may not use this file except in compliance with the License. Roughly speaking, non-commercial users may share and modify this code, but must give credit and share improvements. However, for proper details please read the full License, available at
 
 https://github.com/asapegin/licenses/blob/main/Vizsage-License-BY-NC-SA
 
-
 and the handy reference for understanding the full license at 
-
 
 https://github.com/asapegin/licenses/blob/main/Vizsage-Deed-BY-NC-SA
 
-
-Please contact the author for any other kinds of use.
-
-
-Unless required by applicable law or agreed to in writing, any
+Please contact the author for any other kinds of use. 
 
 
-software distributed under the License is distributed on an 
-
-
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
-
-
-either express or implied. See the License for the specific 
-
-
+Unless required by applicable law or agreed to in writing, any software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific 
 language governing permissions and limitations under the License.
 
